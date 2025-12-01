@@ -19,5 +19,5 @@ Just upload your file then copy the link to share with others.
 
 **All files will be deleted 60 days after upload**
 
-[Studio A Audio PC](http://rossmgmt.mrts.unt.edu/shr/AudioA/)
+To upload to Audio Computer in Studio A: [Studio A Audio PC](http://rossmgmt.mrts.unt.edu/shr/AudioA/)
 
