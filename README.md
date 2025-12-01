@@ -9,7 +9,7 @@ For granualr asset management:
 For graphic creation:
 [Ross XPression](https://xpression.mrts.unt.edu:9443/Static/)
 
-## **File Transfer Page**
+### **File Transfer Page**
 
 **All files will be deleted 60 days after upload**
 
@@ -17,7 +17,7 @@ Just upload your file then copy the link to share with others.
 
 [MRTS File Transfer](http://rossmgmt.mrts.unt.edu/FileTransfer/)
 
-## **Upload files to computers**
+### **Upload files to computers**
 
 **All files will be deleted 60 days after upload**
 
