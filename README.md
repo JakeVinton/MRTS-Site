@@ -5,11 +5,11 @@ For granualr asset management:
 [Ross Streamline](https://streamline.mrts.unt.edu)
 
 For graphic creation:
-[Ross XPression](xpression.mrts.unt.edu:9443/Static/)
+[Ross XPression](https://xpression.mrts.unt.edu:9443/Static/)
 
 ## **File Transfer Page**
 
-**Files will be deleted after 30 days
+**All files will be deleted 60 days after upload**
 
 Just upload your file then copy the link to share with others.
 
@@ -17,8 +17,7 @@ Just upload your file then copy the link to share with others.
 
 ## **Upload files to computers**
 
-**All files will be deleted 60 days after upload
+**All files will be deleted 60 days after upload**
 
-Studio A Audio PC
 [Studio A Audio PC](http://rossmgmt.mrts.unt.edu/shr/AudioA/)
 
